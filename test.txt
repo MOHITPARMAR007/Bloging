@@ -1,0 +1,16 @@
+api ---  http://127.0.0.1:8787/api/v1/blog/b5f82a5d-2547-430f-85f7-e195414706a6
+
+reposne -----
+{
+        {
+    "blog": {
+        "id": "b5f82a5d-2547-430f-85f7-e195414706a6",
+        "title": "This123",
+        "content": "My123@gmaul.com",
+        "published": false,
+        "authorId": "19c89daf-6d4f-4a1a-8562-dd6684d57602",
+        "authorName": "Mohit"
+    }
+}
+
+}
